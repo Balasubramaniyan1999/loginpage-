@@ -10,3 +10,4 @@ command requirements:
  Pre-requiremnts:
   Basic knowledge in flask and Mysql work bench along with commands.
   Python Knowledge-level:Intermediate
+  Basic knowledge in HTML and CSS
